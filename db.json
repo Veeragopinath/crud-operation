@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Steve gauni",
+      "password": "Palmer",
+      "e_mail": "steve@codingthesmartway.com",
+      "phone_no": "7894561234",
+      "role": "guest"
+    },
+    {
+      "id": 3,
+      "name": "xyz",
+      "e_mail": "veeragopinath.m@gmail.com",
+      "phone_no": "8525859901",
+      "password": "jnewfkjnkejw",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "name": "Muthuramalingam",
+      "e_mail": "vinothkumar0071995@gmail.com",
+      "phone_no": "7010477416",
+      "surname": null,
+      "role": "Admin",
+      "password": "eflkncdklewf"
+    },
+    {
+      "name": "Rajesh",
+      "e_mail": "vinothkumar0071995@gmail.com",
+      "phone_no": "0701047741",
+      "password": "Kumar",
+      "role": "User",
+      "id": 7
+    },
+    {
+      "name": "Veeragopinath",
+      "e_mail": "veeragopinath.m@gmail.com",
+      "phone_no": "6546545645",
+      "password": "ewkjbfk",
+      "role": "guest",
+      "id": 8
+    },
+    {
+      "name": "vignesh",
+      "password": "weohgewkohfwe",
+      "e_mail": "dsndlksejnl@knfvlkbm.ewhiwe",
+      "phone_no": "8465465555",
+      "role": "Admin",
+      "id": 9
+    },
+    {
+      "name": "pachai",
+      "password": "ewlkhjelwkdv",
+      "e_mail": "kllknelkvmdl@lkegnlk.erij",
+      "phone_no": "5446565666",
+      "role": "User",
+      "id": 10
+    },
+    {
+      "name": "amarnath",
+      "password": "dgregkl",
+      "e_mail": "rgjo@jhbdsfkj.dsfiuh",
+      "phone_no": "6565656546",
+      "role": "Admin",
+      "id": 11
+    }
+  ]
+}
